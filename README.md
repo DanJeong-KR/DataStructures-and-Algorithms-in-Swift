@@ -6,7 +6,15 @@
 		* [Swift4 : 연결리스트 (1 / 3) : #LinkedList : #DataStructrue : #자료구조](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-LinkedList-DataStructrue-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 		* [Swift4 : 연결리스트 (2 / 3) : #LinkedList : #값 추가하기, push, append : #값 삽입하기,insert](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-2-3-LinkedList-%EA%B0%92-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-push-append-%EA%B0%92-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0insert)
 		* [Swift4 : 연결리스트 (3 / 3) : #LinkedList : #값 제거하기, pop, removeLast, remove(at: )](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-3-3-LinkedList-%EA%B0%92-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-pop-removeLast-removeat)
-		
+		* [Swift4: 스택: #Stack: #자료구조: #DataStructure: #쌓기](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%8A%A4%ED%83%9D-Stack-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-DataStructure-%EC%8C%93%EA%B8%B0?category=779571)
+		* [Swift4: 큐 (1 / 4): Queue: #자료구조: #배열로 구현한 큐: #배열의원리](https://the-brain-of-sic2.tistory.com/entry/Swift4-%ED%81%90-Queue-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+		* [Swift4: 큐 (2 / 4): Queue: #자료구조: #연결리스트: #더블연결리스트: #DoublyLinkedList](https://the-brain-of-sic2.tistory.com/entry/Swift4-%ED%81%90-2-4-Queue-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%8D%94%EB%B8%94%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-DoublyLinkedList)
+		* [Swift4: 큐 (3 / 4): Queue: #자료구조: #Stack으로 구현: #더블스택: #DoubleStack: #제일좋음](https://the-brain-of-sic2.tistory.com/entry/%ED%81%90)
+		* [Swift4: 큐 (4 / 4): Queue: #자료구조: #RingBuffer: #링버퍼로 구현한 큐: #고정된배열: #마지막!!](https://the-brain-of-sic2.tistory.com/entry/%EB%A7%81%EB%B2%84%ED%8D%BC)
+		* [스위프트: 트리: Tree: #자료구조: #깊이우선탐색: #레벨정렬탐색: #검색알고리즘: Swift4](https://the-brain-of-sic2.tistory.com/entry/%ED%8A%B8%EB%A6%AC)
+		* [스위프트: 이진 트리: #BinaryTree: #자료구조: #탐색: #in-order: #pre-order: #post-order:](https://the-brain-of-sic2.tistory.com/entry/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EC%9D%B4%EC%A7%84-%ED%8A%B8%EB%A6%AC-BinaryTree)
+		* [스위프트: 이진 탐색 트리(1 / 2): #BinarySearchTree: #자료구조: #배열과 비교: #트리: #탐색: #삽입: #삭제](https://the-brain-of-sic2.tistory.com/entry/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%ED%8A%B8%EB%A6%AC)
+		* [스위프트: 이진 탐색 트리(2 / 2): #BinarySearchTree: #자료구조: #배열과 비교: #트리: #탐색: #삽입: #삭제](https://the-brain-of-sic2.tistory.com/entry/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89-%ED%8A%B8%EB%A6%AC2-2-BinarySearchTree-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%B9%84%EA%B5%90-%ED%8A%B8%EB%A6%AC-%ED%83%90%EC%83%89-%EC%82%BD%EC%9E%85-%EC%82%AD%EC%A0%9C)
 	
 	* Swift4 Language in detail. 18.08.30
 		* [Swift4: 제어 전송 명령문( Control transfer statement ) : continue, break, return](https://the-brain-of-sic2.tistory.com/entry/Control-transfer-statement?category=779576) 
