@@ -2,7 +2,8 @@
 
 
 * **Swift4**: My first Language = My Mother.. Ing
-	* **Data Structures and Algorithms in Swift**  공부한거 포스팅하면서 공유하자. 9월부터
+	* **Data Structures and Algorithms in Swift** 
+	* **[자료구조 전용 저장소 깃허브](https://github.com/changSic/DataStructures-in-Swift)**
 		* [Swift4 : 연결리스트 (1 / 3) : #LinkedList : #DataStructrue : #자료구조](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-LinkedList-DataStructrue-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 		* [Swift4 : 연결리스트 (2 / 3) : #LinkedList : #값 추가하기, push, append : #값 삽입하기,insert](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-2-3-LinkedList-%EA%B0%92-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-push-append-%EA%B0%92-%EC%82%BD%EC%9E%85%ED%95%98%EA%B8%B0insert)
 		* [Swift4 : 연결리스트 (3 / 3) : #LinkedList : #값 제거하기, pop, removeLast, remove(at: )](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8-3-3-LinkedList-%EA%B0%92-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-pop-removeLast-removeat)
@@ -25,6 +26,7 @@
 		* [Swift4 : 프로토콜 2 : #델리게이트 패턴 : #델리게이션 (2 / 2)](https://the-brain-of-sic2.tistory.com/entry/%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-2-%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8-%ED%8C%A8%ED%84%B4-%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%EC%85%98-2-2?category=779576)
 		* [Swift4 : 제네릭 : #Generics : #왜필요해? : #where키워드 : #제약사항걸기](https://the-brain-of-sic2.tistory.com/entry/%EC%A0%9C%EB%84%A4%EB%A6%AD-Generics?category=779576)
 		* [Swift4 : 자동 참조 카운팅 : #Automatic Referece Counting : #ARC :#강한참조 : #Strong Reference Cycle : #메모리 누수](https://the-brain-of-sic2.tistory.com/entry/Swift4-%EC%9E%90%EB%8F%99-%EC%B0%B8%EC%A1%B0-%EC%B9%B4%EC%9A%B4%ED%8C%85-Automatic-Referece-Counting-ARC?category=779576) 18. 9 .11
+		
     
 * **Algorithm** Ing
 	
@@ -56,3 +58,4 @@
 	
 	
 * 취업, 면접 준비
+	* [주니어 개발자 채용 정보](https://github.com/changSic/junior-recruit-scheduler)
