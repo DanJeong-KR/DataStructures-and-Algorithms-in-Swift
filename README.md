@@ -38,24 +38,19 @@
 	* 문제푸는 곳 (Swfit 를 쓸 수 있는 곳만)
 		* [백준 알고리즘](https://www.acmicpc.net)
 		* [프로그래머스](https://programmers.co.kr)
-		
-* **유용한 웹사이트**
-	* PDF 관한 모든것. [Smallpdf](https://smallpdf.com/kr)
-	* Swift 로 작성된 iOS Resources [IOS Example](https://iosexample.com/)
-	* MarkDown 실시간 렌더링 [DILLINGER](https://dillinger.io/)
-
-
-* Github Ing
-   * Git README.md 꾸미기 [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#emphasis)
     
+* 취업, 면접 정보
+	* [주니어 개발자 채용 정보](https://github.com/changSic/junior-recruit-scheduler)
+	
 * iOS Study Will
 	* [스탠포드 아저씨 강의](https://www.youtube.com/channel/UC4TopsgjMJ0p-DlgJ6J4dzw) 아래 댓글에 강의자료와 모범답안 나와있음.
 	
-    
 * Computer Basic Will
 	* [하버드 CS50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) 강의 언젠간...듣자...
 	* [edX](https://www.edx.org) 외국대학강의 들을 수 있는 곳
 	
-	
-* 취업, 면접 준비
-	* [주니어 개발자 채용 정보](https://github.com/changSic/junior-recruit-scheduler)
+* **유용한 웹사이트**
+	* PDF 관한 모든것. [Smallpdf](https://smallpdf.com/kr)
+	* Swift 로 작성된 iOS Resources [IOS Example](https://iosexample.com/)
+	* MarkDown 실시간 렌더링 [DILLINGER](https://dillinger.io/)
+	* Git README.md 꾸미기 [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#emphasis)
